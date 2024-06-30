@@ -26,3 +26,14 @@ I hope this app proves useful in the following areas.
 * sports club
 * etc. ... in the field I have never imagined.
 
+<div style="text-align: center; margin: 30px">
+    <script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
+    <ms-store-badge
+        productid="9n5v6c0dfgfw"
+        productname="Group Coordinator"
+        window-mode="direct"
+        theme="auto"
+        language="ja-jp"
+        animation="on">
+    </ms-store-badge>
+</div>
